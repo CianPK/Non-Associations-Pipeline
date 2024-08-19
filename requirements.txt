@@ -1,0 +1,12 @@
+requests==2.31.0
+
+google.generativeai==0.7.0
+
+pandas==2.2.2
+
+tqdm==4.66.2
+
+
+
+
+

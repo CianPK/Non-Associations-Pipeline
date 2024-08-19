@@ -99,5 +99,5 @@ After completing these steps, the `final.csv` file will be ready for manual veri
 
 ## 👥 Author
 
-- **CianPK** - [GitHub](https://github.com/CianPK)
+-[**CianPK**](https://github.com/CianPK)
 

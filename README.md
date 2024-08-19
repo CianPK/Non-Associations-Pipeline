@@ -10,7 +10,7 @@ However, the initial csv file produce will need to go through several steps of d
 Any one of the above may be accessed and altered via 'gemini_pipeline.py' using a text editior.
 This method can easily be applied to other diseases, associations and alternative LLMs may be swapped in (depending on your budget!)
 
-## Running Pipeline (via Windows CMD)
+## Running Pipeline on Python 3.12.1 (via Windows CMD)
 
 1. **Setup and activate a virtual environment (optional)**
    - Create and activate a virtual environment if you prefer to keep dependencies isolated.

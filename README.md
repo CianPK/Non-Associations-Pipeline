@@ -96,3 +96,6 @@ the latter will be listed for each step.
      ```
 
 After completing these steps, the `final.csv` file will be ready for manual verification. 
+
+👥 Author
+@CianPK
